@@ -14,7 +14,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background:#873e23;
+  background:#8e0833;
 
 }
 .wrap{
@@ -83,5 +83,5 @@ form button{
   font-size: 17px;
   cursor: pointer;
 
-  background: #154c79;
+  background: #180466;
 }
