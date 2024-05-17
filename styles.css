@@ -28,6 +28,7 @@ body{
   font-size: 28px;
   text-align: center;
   font-weight: 500;
+  color: #fff;
 }
 .wrap form{
   margin: 35px;
@@ -42,6 +43,7 @@ form .row{
 form .row label{
   font-size: 18px;
   margin-bottom: 5px;
+  color: #fff;
 
 }
 
